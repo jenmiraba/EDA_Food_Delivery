@@ -29,5 +29,5 @@ README.md: This file containing information about the project.
 To run the analysis, open the restaurant_orders_analysis.ipynb notebook in a Jupyter Notebook environment and run the code cells in order. The notebook contains detailed explanations of the analysis process and the code used.
 
 
-This project was completed by me as part of my portfolio projects.
+*This project was completed by me as part of my portfolio projects.*
 
