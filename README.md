@@ -1,4 +1,4 @@
-# EDA - Food Delivery Company 🚴🍕🍟🍔🌯🧋
+# EDA - Food Delivery Company 🚴🍕🥗🧋
 
 This project is an Exploratory Data Analysis of restaurant orders data. The goal of the analysis is to gain a better understanding of the data and maybe identify insights that can help improve the restaurants's sales and customer experience.
 
