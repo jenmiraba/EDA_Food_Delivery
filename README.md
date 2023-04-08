@@ -1,6 +1,6 @@
 # EDA - Food Delivery Company
 
-This project is an exploratory data analysis of restaurant orders data. The goal of the analysis is to gain a better understanding of the data and maybe identify insights that can help improve the restaurants's sales and customer experience.
+This project is an Exploratory Data Analysis of restaurant orders data. The goal of the analysis is to gain a better understanding of the data and maybe identify insights that can help improve the restaurants's sales and customer experience.
 
 ## Dataset
 The dataset used for this analysis is a modified version of a publicly available dataset, which has been preprocessed and cleaned for this specific project. Due to the modification, the source of the dataset cannot be provided.
@@ -29,5 +29,5 @@ README.md: This file containing information about the project.
 To run the analysis, open the restaurant_orders_analysis.ipynb notebook in a Jupyter Notebook environment and run the code cells in order. The notebook contains detailed explanations of the analysis process and the code used.
 
 
-This project was completed by Jennifer Miraballes.
+This project was completed by me as part of my portfolio projects.
 
